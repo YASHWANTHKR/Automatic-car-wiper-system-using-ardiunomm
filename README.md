@@ -6,7 +6,7 @@
 
 ### Authors
 - Bysani Abhinav (221EC210)
-- Yashwanth S (221EC264)
+- Yashwanth K R (221EC264)
 
 ### Supervised by
 Dr. Sushil Kumar Pandey  
@@ -81,7 +81,7 @@ The system includes an Arduino Uno, rain sensor, servomotor, and LCD module. The
 - **LCD Module:** Displays precipitation intensity.
 
 ## Results
-![Block Diagram]()
+![No Rain](https://github.com/YASHWANTHKR/Automatic-car-wiper-system-using-ardiunomm/blob/main/first%20stage.jpg)
 ### Hardware Result
 
 The LCD module displays precipitation intensity as zero, low, medium, or high. When it rains, the rain sensor detects the intensity and sends a signal to the Arduino, which adjusts the servomotor's rotation speed accordingly.
